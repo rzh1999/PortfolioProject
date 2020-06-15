@@ -9,6 +9,7 @@ body{
   }
 
   .aboutH1{
+      font-family: 'Share Tech Mono', monospace;
       text-align: center;
       font-size: 7 rem;
   }
@@ -19,6 +20,7 @@ body{
   }
 
   .card-body{
+    font-family: 'Share Tech Mono', monospace;
     text-align: center;
   }
 
