@@ -41,7 +41,7 @@ h1{
     font-weight: bold;
     text-align: center;
   }
-.menu-text {
+.menu-link-color li{
   color: #0ebcff;
 }
   .nav-item a{
