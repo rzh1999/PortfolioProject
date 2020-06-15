@@ -21,3 +21,19 @@ body{
   .card-body{
     text-align: center;
   }
+
+  .accordion-txt{
+   font-family: 'Share Tech Mono', monospace;
+   
+  }
+
+  .accordion-txt button{
+    font-family: 'Share Tech Mono', monospace;
+    font-size: 1.5rem;
+   }
+
+  .accordion-title{
+    font-family: 'Share Tech Mono', monospace;
+    font-weight: bold;
+    text-align: center;
+  }
