@@ -7,7 +7,9 @@ body{
         margin: 0 auto;
   
   }
-
+h1{
+  font-family: 'Share Tech Mono', monospace;
+}
   .aboutH1{
       font-family: 'Share Tech Mono', monospace;
       text-align: center;
